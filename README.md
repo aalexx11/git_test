@@ -1,0 +1,1 @@
+This is Aleksandra's first git project!
